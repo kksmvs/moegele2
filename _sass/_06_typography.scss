@@ -151,7 +151,14 @@ figcaption a:hover,
     text-align: right;
 }
 
+.imgcircle{
+ -webkit-clip-path: circle(50%);
+}
 
+.imgcircle40{
+ -webkit-clip-path: circle(40%);
+ display: inline;
+}
 
 /* Tables
 ------------------------------------------------------------------- */
