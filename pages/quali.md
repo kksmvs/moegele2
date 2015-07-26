@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Qualifikation"
+show_meta: false
 header:
    image_fullwidth: "header_material.jpg"
 permalink: "/qualifikation/"
-show_meta: false
 ---
 Meine größte Freude besteht darin, Kindern zu zeigen, welche Fähigkeiten in ihnen stecken und diese mit ihnen weiter zu entwickeln. Deshalb wurde ich zunächst Sportlehrerin und später Montessori-Therapeutin.
 
