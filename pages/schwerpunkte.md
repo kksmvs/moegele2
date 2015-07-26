@@ -27,7 +27,7 @@ permalink: "/schwerpunkte/"
 <h2>Fachdienst in Kindertagesstätten</h2>
 <p>Als Fachdienst arbeite ich mit einer Einrichtung zusammen. Das Ziel ist, Kinder mit besonderen Bedürfnissen therapeutisch zu fördern und in die Gruppe zu integrieren. </p>
 <p>Dazu komme ich einmal wöchentlich in Einrichtung; ein zweiter Termin findet mit den Eltern in meiner Praxis statt. Eine interdisziplinäre Arbeit ist dabei selbstverständlich.</p>
-<p>Unter <a href="/Referenzen">Referenzen</a> finden Sie mehr darüber.</p>
+<p>Unter <a href="/qualifikation/referenzen/">Referenzen</a> finden Sie mehr darüber.</p>
 </div>
 
 <div class="large-4 columns">
