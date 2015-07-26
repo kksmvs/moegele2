@@ -3,7 +3,7 @@ layout: page
 title: "Fortbildungen seit dem Jahr 2000 bis Anfang 2014"
 header:
    image_fullwidth: "header_material.jpg"
-permalink: "/qualifikation/Fortbildungen/"
+permalink: "/qualifikation/fortbildungen/"
 show_meta: false
 ---
 ###2014

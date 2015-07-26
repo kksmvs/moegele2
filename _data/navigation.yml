@@ -3,7 +3,7 @@
   side: left
 
 - title: Schwerpunkte
-  url: "/Schwerpunkte/"
+  url: "/schwerpunkte/"
   side: left
 
 - title: "Qualifikation"
@@ -11,20 +11,20 @@
   side: left
   dropdown:
   - title: "Fortbildungen"
-    url: "/qualifikation/Fortbildungen/"
+    url: "/qualifikation/fortbildungen/"
   - title: "Referenzen"
-    url: "/qualifikation/Referenzen/"
+    url: "/qualifikation/referenzen/"
 
 - title: "Vorträge/Workshops"
   url: "/workshops/"
   side: left
 
 - title: Aktuelles
-  url: "/Aktuelles/"
+  url: "/aktuelles/"
   side: left
 
 - title: Über Montessori-Therapie
-  url: "/Montessori-Therapie/"
+  url: "/montessori-therapie/"
   side: left
 
   title: "Impressum"

@@ -3,7 +3,7 @@ layout: page-notitle
 title: "Über Montessori-Therapie"
 header:
    image_fullwidth: "header_material1.jpg"
-permalink: "/Montessori-Therapie/"
+permalink: "/montessori-therapie/"
 show_meta: false
 ---
 <h1>Die Montessori-Therapie ...</h1>
