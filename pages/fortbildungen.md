@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Fortbildungen seit dem Jahr 2000 bis Anfang 2014"
+show_meta: false
+permalink: "/qualifikation/fortbildungen/"
 header:
    image_fullwidth: "header_material.jpg"
-permalink: "/qualifikation/fortbildungen/"
-show_meta: false
 ---
 ###2014
 **Internationale Montessori-Tagung – „Studium des Kindes“**  
