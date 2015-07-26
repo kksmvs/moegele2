@@ -31,7 +31,7 @@ permalink: "/schwerpunkte/"
 </div>
 
 <div class="large-4 columns">
-<h2>Fachdienst in Kindertagesstätten</h2>
+<h2>Supervision</h2>
 <p>Aufgrund meiner Erfahrung werde ich immer wieder um Supervision in Kindertagesstätten und bei Montessori-Therapien gebeten.</p>
 </div>
 
