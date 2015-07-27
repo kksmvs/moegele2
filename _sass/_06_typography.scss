@@ -42,7 +42,10 @@ a:active {
         color: darken( $ci-1, 20% );
 }
 
-
+a.akt {
+    font-weight: normal;
+    border-bottom: none;
+}
 
 /* Customize Foundation Typography
 ------------------------------------------------------------------- */
@@ -109,7 +112,11 @@ h5 {
     margin: 1em 0 0 0;
 }
 
-
+h2.akt {
+	margin-top:0px;
+    font-weight: normal;
+    border-bottom: none;
+}
 
 /* Images
 ------------------------------------------------------------------- */

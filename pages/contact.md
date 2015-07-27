@@ -1,12 +1,20 @@
 ---
 layout: page-notitle
-title: "Kontaktformular"
-meta_title: "Kontaktformular"
+title: "Kontakt"
+meta_title: "Kontakt"
 show_meta: false
 permalink: "/kontakt/"
 header:
    image_fullwidth: "header_elijahbells.jpg"
 ---
+<h3>Elisabeth Mögele</h3>
+**München-Obermenzing**<br>
+t: 0151/162 35 189<br>
+f:  089/820 810 88<br>
+Montessori-Therapie@Elisabeth-Moegele.de<br>
+www.montessori-therapie.eu<br>
+
+
 <div class="panel">
 <div id="wufoo-zmmdkgs0lvbrn5">
 Fill out my <a href="https://kksmvs.wufoo.com/forms/zmmdkgs0lvbrn5">online form</a>.

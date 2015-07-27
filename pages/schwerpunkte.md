@@ -15,12 +15,27 @@ permalink: "/schwerpunkte/"
 </div>
 
 <div class="row">
+<div class="large-3 columns">
+  <img class="imgcircle40" src="/images/eltern.jpg">
+</div>
+<div class="large-3 columns">
+  <img class="imgcircle40" src="/images/elijah_scale.jpg">
+</div>
+<div class="large-3 columns">
+		<img class="imgcircle40" src="/images/cecilia1.jpg">
+</div>
+<div class="large-3 columns">
+		<img class="imgcircle40" src="/images/cecilia2.jpg">
+</div>
+</div>
+
+<div class="row">
 <div class="large-4 columns">
 <h2>Elternberatung und Elterntraining</h2>
 		<ul>
-		<li> Die therapeutische Arbeit bezieht die Bezugsperson(en) ein. Die Gestaltung des Alltags und positiven sozialen Umfeldes wird dabei gemeinsam erarbeitet. </li>
-		<li> Als Ergänzung zu den Therapiestunden biete ich Eltern / Bezugspersonen Termine für eine individuelle Beratung an. </li>
-		<li> Eine Elternberatung kann auch unabhängig von einer längerfristigen therapeutischen Arbeit erfolgen. </li>
+		<li>In meine therapeutische Arbeit beziehe ich die Bezugspersonen des Kindes ein. Die Gestaltung des Alltags und eines positiven sozialen Umfeldes wird dabei gemeinsam erarbeitet. </li>
+		<li>Als Ergänzung zu den Therapiestunden biete ich Eltern / Bezugspersonen eine individuelle Beratung an. </li>
+		<li>Eine Elternberatung kann auch unabhängig von einer längerfristigen therapeutischen Arbeit erfolgen. </li>
 		</ul>
 </div>
 <div class="large-4 columns">
@@ -32,21 +47,9 @@ permalink: "/schwerpunkte/"
 
 <div class="large-4 columns">
 <h2>Supervision</h2>
-<p>Aufgrund meiner Erfahrung werde ich immer wieder um Supervision in Kindertagesstätten und bei Montessori-Therapien gebeten.</p>
+<p>Erzieherinnen und Erzieher, Montessori-Therapeutinnen und -Therapeuten, bitten mich immer wieder um Supervision ihrer Arbeit. Gelegentlich werde ich auch um Mitarbeit zur Qualitätssicherung der Einrichtung gebeten und/oder um Überprüfung der Materialausstattung, besonders bei Fragen zur Inklusion.</p>
 </div>
 
-</div>
-
-<div class="row">
-<div class="large-4 columns">
-  <img class="imgcircle40" src="/images/eltern.jpg">
-</div>
-<div class="large-4 columns">
-		<img class="imgcircle40" src="/images/cecilia1.jpg">
-</div>
-<div class="large-4 columns">
-		<img class="imgcircle40" src="/images/cecilia2.jpg">
-</div>
 </div>
 
 <ul>

@@ -1,11 +1,34 @@
 ---
 layout: page
-title: "Fortbildungen seit dem Jahr 2000 bis Anfang 2014"
+title: "Fortbildungen seit dem Jahr 2000"
 show_meta: false
 permalink: "/qualifikation/fortbildungen/"
 header:
    image_fullwidth: "header_material.jpg"
 ---
+###2015
+**12. Internationale Montessori-Tagung -  Die Vielfalt der Sprache**  
+03.01. – 05.01.2014, Pelham (Chiemgau)
+<div style="margin-left:15px;margin-top:-10px;text-align:left">
+<b>Mehrsprachigkeit im 21. Jahrhundert – ein Mehrwert?</b>  Julia Meyer, LMU München<br>
+<b>Das Jugendalter – Umgebung und soziale Erfahrungen</b>, L. Ewert-Krocker, USA<br>
+<b>Musik ist eine internationale Sprache</b>, Jean Miller, USA<br>
+<b>Mathematik ist auch Sprache</b>, Patricia Spinelle, Paris<br>
+<b>Bewegung und Körperbewusstsein nach Marianne Frostig</b>, M. Wiedemann<br>
+<b>Montessori-Pädagogik in Afrika</b>, Anna Ziegler<br>
+<b><u>Workshop</u>: Musik im Kinderhaus</b>, Jean Miller
+</div>
+<br>
+
+**Ohne Entwicklung keine Erziehung – ohne Erziehung keine Entwicklung**  
+02.05.2015, Regensburger Montessori-Insitut
+<div style="margin-left:15px;margin-top:-10px;text-align:left">
+<b>Wie kommt der geometrische Geist aus der Flasche?</b> Axel Winkler<br>
+<b>Gestatten, mein Name ist Quadrat – Klassifikationen als Hilfe für Kinder, die Geometrie zu verstehen</b>, Petra Braun und Axel Winkler<br>
+<b>Wie die Geometrie zu ihrem Namen kam und vielfältige Arbeiten mit dem Stäbchenkasten</b>, Armin Blätzinger<br>
+</div>
+
+<hr>
 ###2014
 **Internationale Montessori-Tagung – „Studium des Kindes“**  
 03.01. – 05.01.2014, Pelham (Chiemgau)
@@ -16,6 +39,30 @@ header:
 <strong>Montessori aus der Sciht eines Wissenschaftlers</strong> – Mario Valle (Swiss National supercomputing centre)<br>
 <strong>Bewusste Begabungs- und Talentförderung</strong> – Verena Schüepp, AMI-Päd. 0 – 3 – 6 – 12, Zürich<br>
 <strong>Beobachtung – der Schatz für die individuelle Förderung des Kindes</strong> – Isabelle Sechaud, AMI-Trainerin  3 – 6 Jahre Frankreich
+</div>
+<br>
+
+**Schulbegleitung**  
+29.03.2014 Lore Anderlik, Puchheim
+<br>
+
+**Therapeuten-Tagung - Fortbildung des Montessori-Berufsverbandes**  
+26.07.2014 Altötting, Sozialpädiatrisches Zentrum für Kinder und Jugendliche
+<div style="margin-left:15px;margin-top:-10px;text-align:left">
+<b>Montessori-Therapie in einer sich fort entwickelnden Sozialpädiatrie</b>, Prof. G. Schmid<br>
+<b>Elternanleitung, Elternbegleitung</b>, Petra Findelsberger<br>
+<b>Eltern in der Therapiebegleitung chronisch kranker Kinder</b>, Dr. Vlaho, Chefarzt Altötting<br>
+<b>Umfassende Entwicklungstherapie – sozialtherapeutische Bedeutung</b>, Dr. Neyer, OA Altötting<br>
+</div>
+<br>
+
+**Internationales und interdisziplinäres Symposium**  
+28./ 29. November 2014 AudiMax TU München  
+<b>"Kognitive Entwicklung, Begabung und Lernen bei Kindern mit besonderem Förderbedarf"</b>
+<div style="margin-left:15px;margin-top:-10px;text-align:left">
+<b>Methoden der Entwicklungsdiagnostik<br>
+Einflussfaktoren der kognitiven Entwicklung<br>
+Bedingungen des Lernens für Kinder mit Lernstörungen</b>
 </div>
 
 <hr>

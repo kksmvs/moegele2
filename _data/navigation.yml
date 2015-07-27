@@ -6,6 +6,10 @@
   url: "/schwerpunkte/"
   side: left
 
+- title: Montessori-Therapie
+  url: "/montessori-therapie/"
+  side: left
+  
 - title: Qualifikation
   url: "/qualifikation/"
   side: left
@@ -21,10 +25,6 @@
 
 - title: Aktuelles
   url: "/aktuelles/"
-  side: left
-
-- title: Über Montessori-Therapie
-  url: "/montessori-therapie/"
   side: left
   
 - title: Kontakt
