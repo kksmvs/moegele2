@@ -14,7 +14,7 @@ u. a. zu folgenden Themen:
 * <b>Was tun, wenn das Kind nicht hört?</b> Periphere Hörschädigung und Auditive Verarbeitungs- und Wahrnehmungsstörung 	(AVWS)
 * <b>Montessori-Therapie bei Sprachentwicklungsstörungen</b>
 * Bezugspersonen und <b>Therapietransfer - Interdisziplinäre Arbeit - Schulbegleitung</b>
-* <b>Montessori-Pädagogik</b> von 0 bis 18</li>
+* <b>Montessori-Pädagogik</b> von 0 bis 18
 * Voraussetzungen für eine <b>gelingende Inklusion in Schule und Gesellschaft</b> –Selbstverantwortung und Entfaltung von sozialer, emotionaler und kommunikativer Kompetenz
 * Inklusion - Gemeinschaften des Respekts und der Zusammenarbeit – Montessori-Einrichtungen bieten die besten Voraussetzungen
 * Vom Defekt zur Vielfalt - Ein Beitrag aus Humangenetik und therapeutischer 

@@ -20,8 +20,10 @@ description: "Elisabeth Mögele Montessori Therapie"
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://kksmvs.github.io"
+#url: "http://kksmvs.github.io"
 #url: "http://127.0.0.1:4000"
+#url: "http://www.elisabeth-moegele.de"
+url: "http://www.montessori-therapie.eu"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,8 +36,10 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://kksmvs.github.io/images/"
+#urlimg: "http://kksmvs.github.io/images/"
 #urlimg: "http://127.0.0.1:4000/images/"
+#urlimg: "http://www.elisabeth-moegele.de/images/"
+urlimg: "http://www.montessori-therapie.eu/images/"
 
 
 # Logo size is 600x80 pixels
@@ -60,7 +64,7 @@ include: ['.htaccess']
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: "en"
+language: "de"
 
 # Exclude these files from your production _site
 exclude:

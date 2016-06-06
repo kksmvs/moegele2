@@ -5,6 +5,7 @@ header:
    image_fullwidth: "header_bottles.jpg"
 permalink: "/schwerpunkte/"
 ---
+<h3>in Einzeltherapie oder in kleinen Gruppen</h3>
 
 <div class="row">
 		<ul>
@@ -15,18 +16,14 @@ permalink: "/schwerpunkte/"
 </div>
 
 <div class="row">
-<div class="large-3 columns">
-  <img class="imgcircle40" src="/images/eltern.jpg">
-</div>
-<div class="large-3 columns">
-  <img class="imgcircle40" src="/images/elijah_scale.jpg">
-</div>
-<div class="large-3 columns">
+<div class="large-2 columns"></div>
+<div class="large-4 columns">
 		<img class="imgcircle40" src="/images/cecilia1.jpg">
 </div>
-<div class="large-3 columns">
+<div class="large-4 columns">
 		<img class="imgcircle40" src="/images/cecilia2.jpg">
 </div>
+<div class="large-2 columns"></div>
 </div>
 
 <div class="row">
@@ -51,6 +48,16 @@ permalink: "/schwerpunkte/"
 </div>
 
 </div>
+
+<hr>
+<ul class="clearing-thumbs small-block-grid-3" data-clearing>
+  <li><a href="/images/boys.jpg"><img src="/images/boys-th.jpg"></a></li>
+  <li><a href="/images/boys1.jpg"><img src="/images/boys1-th.jpg"></a></li>
+  <li><a href="/images/elijah.jpg"><img src="/images/elijah-th.jpg"></a></li>
+  <li><a href="/images/eltern.jpg"><img src="/images/eltern-th.jpg"></a></li>
+  <li><a href="/images/elijah1.jpg"><img src="/images/elijah1-th.jpg"></a></li>
+  <li><a href="/images/kaffee.jpg"><img src="/images/kaffee-th.jpg"></a></li>
+</ul>
 
 <ul>
     {% for post in site.categories.schwerpunkte %}
